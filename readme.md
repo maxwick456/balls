@@ -1,6 +1,5 @@
 # Tiktok ball thingy
-just, dont look at this
-it doesn't work
+buggy mess, good starting point for something
 ## Requirements
 need python and brain and pygame
 ## Installation
